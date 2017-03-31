@@ -1,0 +1,26 @@
+{
+  "name": "training-github",
+  "version": "1.0.0",
+  "description": "namjin test",
+  "main": "hello.js",
+  "scripts": {
+    "test": "hello",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NamjinCho/training-github.git"
+  },
+  "keywords": [
+    "hello"
+  ],
+  "author": "namjin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NamjinCho/training-github/issues"
+  },
+  "homepage": "https://github.com/NamjinCho/training-github#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
